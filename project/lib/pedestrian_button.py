@@ -2,7 +2,7 @@ from machine import Pin
 from time import ticks_ms, ticks_diff
 
 
-class Pedestrian_button(Pin):
+class Pedestrian_Button(Pin):
     """Sub class inherits the Super 'Pin Class
 
         Arg:
